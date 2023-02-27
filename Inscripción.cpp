@@ -1,8 +1,9 @@
+//Codigo personal, creado en casa fuera de los programas asignados en el curso de programaci√≥n I
 #include <iostream>
 
 using namespace std;
 
-int main(){
+int main(){d
 	
 	string nom, ape;
 	int edad, carne;
@@ -23,9 +24,9 @@ int main(){
 	cout<<"Ingrese el numero de la carrera a seguir: ";
 	cin>>n1;
 	
-	/*aqui tiene que ir una condiciÛn multiple o anidada para saber
+	/*aqui tiene que ir una condici√≥n multiple o anidada para saber
 	  que requisitos requiere cada carrera o facultad para luego
-	  y a la vez la condiciÛn de que si es mayor de edad presentar
+	  y a la vez la condici√≥n de que si es mayor de edad presentar
 	  DPI propio y si no el de su encargado*/
 	
 	if(edad >= 18){
